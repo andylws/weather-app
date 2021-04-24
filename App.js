@@ -20,5 +20,10 @@ const styles = StyleSheet.create({
   },
   text: {
     color: "white",
+    fontSize: 100,
+    backgroundColor: "black",
+    padding: "7%",
+    borderRadius: 50,
+    margin: "5%",
   },
 });
